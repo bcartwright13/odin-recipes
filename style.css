@@ -1,0 +1,15 @@
+*{
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+}
+button{
+    background-color: rgb(176, 176, 233);
+    width: 200px;
+}
